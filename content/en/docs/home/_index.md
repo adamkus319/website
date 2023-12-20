@@ -52,10 +52,10 @@ cards:
   button: Find out how to help
   button_path: /docs/contribute
 - name: multi-cluster
-  title: Try Kubernetes wtih multiple clusters
-  description: Learn about setting up and running a multi-cluster Kubernetes environment
+  title: Try multi-cluster Kubernetes
+  description: Learn about setting up and running a Kubernetes environment with multiple connected clusters.
   button: "Explore multi-cluster"
-  button_path: /docs/mc_reference
+  button_path: /docs/mc_docs
 - name: training
   title: "Training"
   description: "Get certified in Kubernetes and make your cloud native projects successful!"
